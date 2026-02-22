@@ -2,6 +2,11 @@
 
 A dark synthwave [Omarchy](https://omarchy.com) theme inspired by [SynthWave '84](https://github.com/robb0wen/synthwave-vscode). Deep purple backgrounds with hot pink, electric cyan, mint green, and neon yellow accents.
 
+![robzee84-wallpaper-3](https://github.com/user-attachments/assets/1ea16efc-74cc-4017-ab53-9adeb1f8293e)
+
+<img width="2706" height="1580" alt="vim" src="https://github.com/user-attachments/assets/fa245061-9c54-4c3f-b5d9-d21275c7b3ff" />
+
+
 ## Installation
 
 ```bash
