@@ -20,7 +20,7 @@ omarchy-theme-install https://github.com/robzolkos/omarchy-robzee84-theme
 - **Neovim colorscheme** (`neovim.lua`) -- LazyVim plugin spec using [robzee84.nvim](https://github.com/robzolkos/robzee84.nvim)
 - **btop theme** (`btop.theme`) -- system monitor colors
 - **Icons** -- Papirus-Dark
-- **Wallpaper** -- cyberpunk cityscape
+- **Wallpapers** -- default pure black PNG plus cyberpunk cityscape options
 
 ## Color Palette
 
