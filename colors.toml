@@ -1,7 +1,7 @@
 accent = "#ff7edb"
 cursor = "#f97e72"
 foreground = "#ffffff"
-background = "#171520"
+background = "#000000"
 selection_foreground = "#ffffff"
 selection_background = "#614D85"
 

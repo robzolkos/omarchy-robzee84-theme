@@ -16,6 +16,7 @@ omarchy-theme-install https://github.com/robzolkos/omarchy-robzee84-theme
 ## What's Included
 
 - **Terminal colors** (`colors.toml`) -- 16-color palette for Ghostty
+- **Waybar colors** (`waybar.css`) -- foreground/background variables for the bar
 - **Neovim colorscheme** (`neovim.lua`) -- LazyVim plugin spec using [robzee84.nvim](https://github.com/robzolkos/robzee84.nvim)
 - **btop theme** (`btop.theme`) -- system monitor colors
 - **Icons** -- Papirus-Dark
